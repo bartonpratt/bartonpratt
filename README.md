@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bartonpratt
+- 👋 Hi, I’m Joseph Barton Pratt
 - 👀 I’m interested in Web development and Mobile apps development
 - 🌱 I’m currently learning Frontend development 
 - 💞️ I’m looking to collaborate on projects that will help me become more efficient in this field of study
